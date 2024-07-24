@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5b7f73ab-6c7c-458c-a096-842a20f7cd85",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 221,
+  "height": 79,
+  "platformSettings": {},
+  "subMetas": {
+    "按钮_0009_弃牌": {
+      "ver": "1.0.4",
+      "uuid": "c58adc5a-28bc-40a9-a24f-115a0039e967",
+      "rawTextureUuid": "5b7f73ab-6c7c-458c-a096-842a20f7cd85",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 221,
+      "height": 78,
+      "rawWidth": 221,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

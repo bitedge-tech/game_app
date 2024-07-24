@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "668f16ce-c6da-4187-9132-611519f62001",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "大红桃-四色牌": {
+      "ver": "1.0.4",
+      "uuid": "596aa926-ef03-42bb-8b00-d3d3269badd5",
+      "rawTextureUuid": "668f16ce-c6da-4187-9132-611519f62001",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 5,
+      "width": 54,
+      "height": 54,
+      "rawWidth": 58,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

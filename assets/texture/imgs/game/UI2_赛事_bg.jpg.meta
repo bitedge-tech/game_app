@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "20d702f6-80de-41f0-94e7-321992aa9199",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1334,
+  "height": 1000,
+  "platformSettings": {},
+  "subMetas": {
+    "UI2_赛事_bg": {
+      "ver": "1.0.4",
+      "uuid": "c5ce3385-b113-4137-8e09-5c7ce6123e00",
+      "rawTextureUuid": "20d702f6-80de-41f0-94e7-321992aa9199",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1334,
+      "height": 1000,
+      "rawWidth": 1334,
+      "rawHeight": 1000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

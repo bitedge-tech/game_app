@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1df6a9a2-6d1a-4475-909f-fde2b9bb4148",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "大方块-四色牌": {
+      "ver": "1.0.4",
+      "uuid": "7891f36e-0296-44b3-8b17-80f67a174823",
+      "rawTextureUuid": "1df6a9a2-6d1a-4475-909f-fde2b9bb4148",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 58,
+      "height": 60,
+      "rawWidth": 58,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

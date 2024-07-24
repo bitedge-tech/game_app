@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1aba2674-e6e2-48a9-89bf-1662d7a94769",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "体力场_40": {
+      "ver": "1.0.4",
+      "uuid": "a0d3f370-dab9-49b6-b8fe-1e57ce6cc927",
+      "rawTextureUuid": "1aba2674-e6e2-48a9-89bf-1662d7a94769",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 31,
+      "height": 31,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

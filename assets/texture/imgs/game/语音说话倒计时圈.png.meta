@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "517f77bd-25d0-4943-b809-1ad13a9e0dfa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 194,
+  "height": 194,
+  "platformSettings": {},
+  "subMetas": {
+    "语音说话倒计时圈": {
+      "ver": "1.0.4",
+      "uuid": "134fcfd1-e60d-4133-88c4-8f3c6fa52941",
+      "rawTextureUuid": "517f77bd-25d0-4943-b809-1ad13a9e0dfa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 194,
+      "height": 194,
+      "rawWidth": 194,
+      "rawHeight": 194,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

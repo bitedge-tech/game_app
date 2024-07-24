@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2add3629-5656-4d10-9c87-d4cff768702b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 112,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "UI2_牌局内商店_按钮": {
+      "ver": "1.0.4",
+      "uuid": "a4130c36-a914-4f3b-acfb-5c8c37960cf9",
+      "rawTextureUuid": "2add3629-5656-4d10-9c87-d4cff768702b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 111,
+      "height": 63,
+      "rawWidth": 112,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

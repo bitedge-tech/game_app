@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f80ecd49-c888-45e2-91ac-fe48f8e88df9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 66,
+  "platformSettings": {},
+  "subMetas": {
+    "大梅花-经典": {
+      "ver": "1.0.4",
+      "uuid": "5c87a692-c4a5-47ce-a75c-9cd91a4a016e",
+      "rawTextureUuid": "f80ecd49-c888-45e2-91ac-fe48f8e88df9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 58,
+      "height": 64,
+      "rawWidth": 58,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

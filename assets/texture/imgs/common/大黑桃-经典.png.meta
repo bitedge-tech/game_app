@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "093948f9-2b2d-4be6-ab62-c9a205351093",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 70,
+  "platformSettings": {},
+  "subMetas": {
+    "大黑桃-经典": {
+      "ver": "1.0.4",
+      "uuid": "36b0c354-de7f-4546-a7fb-30a5361e26bb",
+      "rawTextureUuid": "093948f9-2b2d-4be6-ab62-c9a205351093",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 55,
+      "height": 69,
+      "rawWidth": 58,
+      "rawHeight": 70,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

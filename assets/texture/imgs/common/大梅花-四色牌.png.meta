@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "bb289041-3546-4d87-9b89-f22b5fc05d28",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "大梅花-四色牌": {
+      "ver": "1.0.4",
+      "uuid": "b3e3326c-b4d6-4eb1-a31c-afd27e066ce8",
+      "rawTextureUuid": "bb289041-3546-4d87-9b89-f22b5fc05d28",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 5,
+      "width": 58,
+      "height": 56,
+      "rawWidth": 58,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
